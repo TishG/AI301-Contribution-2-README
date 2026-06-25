@@ -1,9 +1,8 @@
-# Contribution 2: C[React Doctor] rerender-functional-setstate: setModifiedLimit(modifiedLimit + (45 occurrences)
- #27954
+# Contribution 2: [React Doctor] rerender-functional-setstate: setModifiedLimit(modifiedLimit + (45 occurrences) #27954
 
-**Contribution Number:** 2
+**Contribution Number:** 2\
 **Student:** Tish Griffiths  
-**Issue:** [https://github.com/wso2/product-is/issues/27954](https://github.com/wso2/product-is/issues/27954
+**Issue:** [https://github.com/wso2/product-is/issues/27954](https://github.com/wso2/product-is/issues/27954)\
 **Status:** Phase I In Progress
 
 ---
