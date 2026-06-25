@@ -5,9 +5,7 @@ Student: Tish Griffiths
 Issue: [https://github.com/wso2/product-is/issues/27954](https://github.com/wso2/product-is/issues/27954)\
 Status: Phase I In Progress
 ---
-Why I Chose This Issue
-[A 2–4 sentence problem summary explaining what the issue is, why it matters, and why you chose it in Why I Chose This Issue]
-State updates are using the current value directly (e.g. setState(value + 1)) instead of the callback form (e.g. setState(prev => prev + 1)), which can cause bugs when the state value is stale at the time of the update. Fixing this issue will reduce warnings and improve performance. I chose this issue because I am experienced with react and state management and understand the issue. I hope to learn more about wso2 and their development environment.
+Why I Chose This Issue: State updates are using the current value directly (e.g. setState(value + 1)) instead of the callback form (e.g. setState(prev => prev + 1)), which can cause bugs when the state value is stale at the time of the update. Fixing this issue will reduce warnings and improve performance. I chose this issue because I am experienced with react and state management and understand the issue. I hope to learn more about wso2 and their development environment.
 ---
 Understanding the Issue
 Problem Description
